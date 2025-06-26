@@ -10,7 +10,7 @@ Esse Sistema Escolar é uma aplicação web desenvolvida como parte da disciplin
 
 ## Estrutura do Projeto
 
-O projeto é estruturado em classes PHP para a lógica de negócios e arquivos HTML/CSS para a interface gráfica.
+O projeto é estruturado em classes PHP para a lógica e arquivos HTML/CSS para a interface gráfica.
 
 ### Classes PHP 
 
